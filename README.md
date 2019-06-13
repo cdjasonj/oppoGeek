@@ -47,6 +47,7 @@ F1:0.7355 排名：36/2888
 队友尝试了：libFM,RNN,DNN,LightGBM<br>
 
 我的其他尝试:CATBOOST,XGBOOST,RT 不过最后实践证明，树集成的，只有LightGBM这种在基于单梯度采样的树模型跑大规模数据才靠谱。。。<br>
+
 更多细节
 ---
 点击率贝叶斯平滑
